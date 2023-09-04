@@ -1,0 +1,19 @@
+body{
+    font-family: fantasy;
+}
+#mostrarProductos{
+    color: brown;
+    font-family: fantasy;
+    text-decoration: dotted;
+    background-color: beige; 
+    padding: 20px;
+
+}
+.elemento{
+    display: flex;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 30px;
+    background-color: blanchedalmond;
+    justify-content: space-evenly;
+}
